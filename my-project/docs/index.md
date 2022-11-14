@@ -1,13 +1,16 @@
-# Welcome to MkDocs
+# Personal account "Сore/manage"
+Сore/manage is an administration system integrated into reactivepay services. This system provides functionality for managing various elements of the reactivepay system, as well as viewing statistics.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Admin Users
 
-## Commands
+In this section, you can create and edit administrators accounts for core/manage.
+All information about administrators is presented in the section table. 
+Table content:
+* Id field is the unique identifier of the administrator
+* Email field - admin email
+* The role field is the role of the administrator. Role types: admin, manager, compliance
+* The control field is the available interactions with the administrator account. The button opens the account editing form. In the editing form, you can change the administrator's email and his role.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
 ## Project layout
 
